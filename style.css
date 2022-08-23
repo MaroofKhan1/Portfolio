@@ -17,6 +17,7 @@ body {
     margin: auto;
     width: 50%;
     color: white;
+    /* background-color: #555; */
   }
   .tagcloud--item:hover {
     color: #36454F;
@@ -25,7 +26,6 @@ body {
 html{
     scroll-behavior: smooth;
 }
-/* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
 }
