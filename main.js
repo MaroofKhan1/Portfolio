@@ -5,7 +5,7 @@ const myTags = [
     'Heroku', 'PostgreSQL', 'jQuery',
     'Adobe PhotoShop', 'Bootstrap',
     'MongoDB', 'Materialize', 'AWS' , 'MySql'
-    ,'VsCode', 'C#','TailWind', 'Materialize'
+    ,'VsCode', 'C#','TailWind', 'Materialize','GitHub'
 ];
 
 var tagCloud = TagCloud('.content', myTags,{
